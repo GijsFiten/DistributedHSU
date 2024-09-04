@@ -23,6 +23,7 @@ dependencies:
   - expat=2.2.6=he6710b0_0
   - freetype=2.9.1=h8a8886c_1
   - future=0.18.2=py36_1
+  - gcc_linux-64=7.3.0
   - geos=3.8.0=he6710b0_0
   - hdf4=4.2.13=h3ca952b_2
   - hdf5=1.10.4=hb1b8bf9_0
@@ -134,7 +135,7 @@ dependencies:
     - promise==2.3
     - protobuf==3.13.0
     - psutil==5.7.2
-    - pycocotools==2.0.7
+    - pycocotools
     - pydantic==1.9.2
     - pysocks==1.7.1
     - requests==2.24.0
